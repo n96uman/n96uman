@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm numan fadil</h1>
 <h3 align="center">A passionate in Cyber security and leadership from ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n96uman&label=Profile%20views&color=0e75b6&style=flat" alt="n96uman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n96uman" alt="n96uman" /></a> </p>
-
 - 🔭 I’m currently working on **CTF hackthebox starting point**
 
 - 🌱 I’m currently learning **GTST,information system**

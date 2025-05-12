@@ -1,6 +1,19 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4A90E2; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4A90E2; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); animation: fadeIn 2s;">
     Hi 👋, I'm <span style="font-weight: bold;">Numan Fadil</span>
 </h1>
+
+<style>
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
 <h3 align="center">A passionate in Cyber security and leadership from ethiopia</h3>
 
 - 🔭 I’m currently working on **CTF hackthebox starting point**
